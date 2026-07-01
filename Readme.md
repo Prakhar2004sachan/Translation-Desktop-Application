@@ -19,7 +19,7 @@ A modern, high-performance desktop utility designed to scan directories, selecti
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/prakharsachan/Rename-Tools.git
+   git clone https://github.com/Prakhar2004sachan/Translation-Desktop-Application.git
    cd Rename-Tools
    ```
 
