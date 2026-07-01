@@ -1,0 +1,14 @@
+imgui-bundle
+glfw
+PyOpenGL
+httpx
+googletrans==4.0.0-rc1
+pydantic
+openai
+google-genai
+deepl
+pyinstaller
+pillow
+pytest
+pytest-asyncio
+numpy
